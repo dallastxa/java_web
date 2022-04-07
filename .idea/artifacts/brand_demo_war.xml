@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="brand-demo:war">
+    <output-path>$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day11-会话技术/代码/brand-demo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>brand-demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="brand-demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="brand-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

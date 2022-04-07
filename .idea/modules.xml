@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ajax-demo/ajax-demo.iml" filepath="$PROJECT_DIR$/ajax-demo/ajax-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day11-会话技术/代码/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day11-会话技术/代码/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../totalcase/case1.iml" filepath="$PROJECT_DIR$/../totalcase/case1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie-demo/cookie-demo.iml" filepath="$PROJECT_DIR$/cookie-demo/cookie-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-demo/css-demo.iml" filepath="$PROJECT_DIR$/css-demo/css-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-demo/filter-demo.iml" filepath="$PROJECT_DIR$/filter-demo/filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html-demo/html-demo.iml" filepath="$PROJECT_DIR$/html-demo/html-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js-demo/js-demo.iml" filepath="$PROJECT_DIR$/js-demo/js-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp-demo/jsp-demo.iml" filepath="$PROJECT_DIR$/jsp-demo/jsp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-project/maven-project.iml" filepath="$PROJECT_DIR$/maven-project/maven-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request/request.iml" filepath="$PROJECT_DIR$/request/request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-demo1/tomcat-demo1.iml" filepath="$PROJECT_DIR$/tomcat-demo1/tomcat-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-demo/vue-demo.iml" filepath="$PROJECT_DIR$/vue-demo/vue-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-demo/web-demo.iml" filepath="$PROJECT_DIR$/web-demo/web-demo.iml" />
+    </modules>
+  </component>
+</project>

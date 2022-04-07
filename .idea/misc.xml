@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day09-Request&amp;Response/代码/request-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day11-会话技术/代码/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ajax-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/filter-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/request" />
+    <file type="web" url="file://$PROJECT_DIR$/request-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcat-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/vue-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/web-demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maven-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-project/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/request/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/2022最新版Java学习路线图/第2阶段—Java Web&amp;mysql数据库/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day11-会话技术/代码/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/vue-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

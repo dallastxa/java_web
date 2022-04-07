@@ -1,0 +1,12 @@
+# Project exclude paths
+/ajax-demo/target/
+/cookie-demo/target/
+/filter-demo/target/
+/jsp-demo/target/
+/maven-demo/target/
+/maven-project/target/
+/mybatis-demo/target/
+/out/
+/request/target/
+/tomcat-demo1/target/
+/web-demo/target/
